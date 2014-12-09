@@ -1,8 +1,8 @@
 /* put your css in here */
 
 body {
-  /* this is just to test and make things are working. You should delete it in a real website */
-  background-color: red;
+  background: linear-gradient(#4C986D, #003D1B);
+  color: whitesmoke;
 }
 
 .logo {
