@@ -8,4 +8,4 @@ Clone the repository using git clone or download a zip file from the repository.
 2. Run `ruby -run -e httpd . -p 5000`
 3. Go to localhost:5000 in your browser.
 
-You can also just open the index.html file in a browser by going to file > open -- but it will not load anything from the CDNs (bootstrap, jquery) so you can't use any scripts with this setup.
+You can also just open the index.html file in a browser by going to file > open
